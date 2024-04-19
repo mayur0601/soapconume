@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Mayur0601
+Build-Jdk: 18.0.1.1
+Implementation-Title: soapconsume
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.viavi
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
